@@ -25,7 +25,7 @@
   <context-param>
   	<description>디버깅 레벨</description>
   	<param-name>debugLevel</param-name>
-  	<param-value>5</param-value>
+  	<param-value>4</param-value>
   </context-param>
 
 </web-app>
